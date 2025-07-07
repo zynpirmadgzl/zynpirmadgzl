@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Merhaba! Ben Zeynep 👋</h1>
 
-<!--
-**zynpirmadgzl/zynpirmadgzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F7E924&center=true&vCenter=true&width=435&lines=Computer+Engineer;Flutter+%7C+React+Dev;Lifelong+Learner" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+- 🛠️ **Tech Stack:** Flutter • Dart • JavaScript • Firebase  
+- 🎓  I'm currently studying at Karadeniz Technical University Computer Engineering.
+-  How to reach me adiguzelzeynepirem@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub statistics
+![Zeynep'ın GitHub Stats](https://github-readme-stats.vercel.app/api?username=zynpirmadgzl&show_icons=true)
+
+### 📫 Bana Ulaşın
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zynpirmadgzl)
+
