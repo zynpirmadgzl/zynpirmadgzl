@@ -10,7 +10,9 @@
 -  mail: adiguzelzeynepirem@gmail.com
 
 ### 📈 GitHub statistics
-![Zeynep'ın GitHub Stats](https://github-readme-stats.vercel.app/api?username=zynpirmadgzl&show_icons=true)
+![Zeynep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zynpirmadgzl&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zynpirmadgzl&layout=compact)
+![Profil Visits](https://profile-counter.glitch.me/zynpirmadgzl/count.svg)
 
 ### 📫Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zeynepiremadiguzel/)
