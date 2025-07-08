@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Zeynep 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F7E924&center=true&vCenter=true&width=435&lines=Computer+Engineer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&size=32&color=F7E924&center=true&vCenter=true&width=435&lines=Computer+Engineer;Lifelong+Learner" />
 </p>
 
 ### 🚀 About
