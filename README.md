@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zynpirmadgzl&layout=compact)
 
 
-![Profil Visits](https://profile-counter.glitch.me/zynpirmadgzl/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=zynpirmadgzl&color=blue)
 
 
 ### 📫Connect with me!
