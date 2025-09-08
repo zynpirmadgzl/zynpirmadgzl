@@ -13,7 +13,7 @@
 </p>
 
 ### 🚀 About
-- 🛠️ **Tech Stack:** Flutter • Dart • JavaScript • Firebase • C# 
+- 🛠️ **Tech Stack:** Flutter • Dart • JavaScript • Firebase • C# • Python   
 - 🎓  I'm currently studying at Karadeniz Technical University Computer Engineering.
 -  mail: adiguzelzeynepirem@gmail.com
 
